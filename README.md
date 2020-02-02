@@ -1,8 +1,6 @@
-# Java-Projects
+# CLI-Calendar
 
-[UPDATING] Collection of all the random projects i've done in Java
-
-* PrintACalendar.java - Program to create a Month Calendar in Command Line with user-input month and year
+PrintACalendar.java - Program to create a Month Calendar in Command Line with user-input month and year
         
     ```java PrintACalendar <month> <year>```
 
